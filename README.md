@@ -49,8 +49,7 @@ Atualmente, meu foco principal tem sido no desenvolvimento do **Book Notes Socia
 >
 > Uma plataforma social para leitores, onde usuários podem criar, compartilhar e interagir com anotações de livros.
 >
-> - **Principal Desafio:** A arquitetura e o gerenciamento do estado global da aplicação.
-> - **Solução e Aprendizado:** Iniciei com hooks básicos do React, mas com o crescimento da complexidade, refatorei a arquitetura usando **Context API com `useReducer`**. Essa experiência foi crucial para solidificar meu entendimento sobre arquitetura de front-end e a importância de escolher as ferramentas certas para garantir a escalabilidade do código.
+> - **Solução e Aprendizado:** Iniciei com hooks básicos do React, mas com o crescimento da complexidade. Essa experiência tem sido crucial para solidificar meu entendimento sobre arquitetura de front-end e a importância de escolher as ferramentas certas para garantir a escalabilidade do código.
 
 ---
 
