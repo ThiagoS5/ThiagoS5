@@ -53,4 +53,8 @@ Atualmente, meu foco principal tem sido no desenvolvimento do **Book Notes Socia
 
 ### 📊 Minhas Estatísticas no GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ThiagoS5&theme=highcontrast&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoS5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoS5&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ThiagoS5&theme=highcontrast&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+</p>
